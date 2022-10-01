@@ -44,18 +44,16 @@ Sunday       0 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Other                    13 mins             █████████████████░░░░░░░░   69.99% 
-HTML                     5 mins              ███████░░░░░░░░░░░░░░░░░░   30.01%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  19 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-git                      13 mins             █████████████████░░░░░░░░   69.99% 
-Workspace                5 mins              ███████░░░░░░░░░░░░░░░░░░   30.01%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  19 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -73,5 +71,5 @@ CSS                      1 repo              ██████░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/nahcettolrahc/nahcettolrahc/main/charts/bar_graph.png) 
 
 
- Last Updated on 30/09/2022 18:55:00 UTC
+ Last Updated on 01/10/2022 18:51:27 UTC
 <!--END_SECTION:waka-->
