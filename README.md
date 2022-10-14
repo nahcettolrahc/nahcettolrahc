@@ -1,7 +1,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%205%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -73,5 +73,5 @@ CSS                      1 repo              █████░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/nahcettolrahc/nahcettolrahc/main/charts/bar_graph.png) 
 
 
- Last Updated on 13/10/2022 18:59:37 UTC
+ Last Updated on 14/10/2022 18:54:47 UTC
 <!--END_SECTION:waka-->
