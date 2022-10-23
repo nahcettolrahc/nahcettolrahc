@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2012%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -44,16 +44,16 @@ Sunday       0 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-PHP                      1 min               █████████████████████████   100.0%
+PHP                      7 mins              █████████████████████████   100.0%
 
 🔥 Editors: 
-VS Code                  1 min               █████████████████████████   100.0%
+VS Code                  7 mins              █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-Workspace                1 min               █████████████████████████   100.0%
+Workspace                7 mins              █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  1 min               █████████████████████████   100.0%
+Windows                  7 mins              █████████████████████████   100.0%
 
 ```
 
@@ -71,5 +71,5 @@ CSS                      1 repo              █████░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/nahcettolrahc/nahcettolrahc/main/charts/bar_graph.png) 
 
 
- Last Updated on 22/10/2022 18:52:53 UTC
+ Last Updated on 23/10/2022 18:52:31 UTC
 <!--END_SECTION:waka-->
