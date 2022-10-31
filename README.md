@@ -5,13 +5,13 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 22 Contributions in the Year 2022
+> 🏆 20 Contributions in the Year 2022
  > 
-> 📦 2.1 kB Used in GitHub's Storage 
+> 📦 2.2 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 6 Public Repositories 
+> 📜 4 Public Repositories 
  > 
 > 🔑 1 Private Repository 
  > 
@@ -63,8 +63,8 @@ Windows                  45 mins             ███████████�
 **I Mostly Code in HTML** 
 
 ```text
-HTML                     4 repos             ████████████████████░░░░░   80.0% 
-CSS                      1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.0%
+HTML                     2 repos             ████████████████░░░░░░░░░   66.67% 
+PHP                      1 repo              ████████░░░░░░░░░░░░░░░░░   33.33%
 
 ```
 
@@ -74,5 +74,5 @@ CSS                      1 repo              █████░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/nahcettolrahc/nahcettolrahc/main/charts/bar_graph.png) 
 
 
- Last Updated on 30/10/2022 18:47:16 UTC
+ Last Updated on 31/10/2022 18:51:09 UTC
 <!--END_SECTION:waka-->
