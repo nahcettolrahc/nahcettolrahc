@@ -5,20 +5,64 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 19 Contributions in the Year 2022
+> 🏆 0 Contributions in the Year 2023
  > 
-> 📦 2.3 kB Used in GitHub's Storage 
+> 📦 101.1 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 3 Public Repositories 
+> 📜 8 Public Repositories 
  > 
-> 🔑 1 Private Repository 
+> 🔑 0 Private Repositories  
  > 
-**I Mostly Code in HTML** 
+**I'm an Early 🐤** 
 
 ```text
-HTML                     2 repos             █████████████████████████   100.0%
+🌞 Morning    4 commits      ███████░░░░░░░░░░░░░░░░░░   28.57% 
+🌆 Daytime    3 commits      █████░░░░░░░░░░░░░░░░░░░░   21.43% 
+🌃 Evening    6 commits      ██████████░░░░░░░░░░░░░░░   42.86% 
+🌙 Night      1 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   7.14%
+
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday       4 commits      ███████░░░░░░░░░░░░░░░░░░   28.57% 
+Tuesday      2 commits      ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
+Wednesday    1 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   7.14% 
+Thursday     3 commits      █████░░░░░░░░░░░░░░░░░░░░   21.43% 
+Friday       4 commits      ███████░░░░░░░░░░░░░░░░░░   28.57% 
+Saturday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+Sunday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Bangkok
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               4 repos             ████████████░░░░░░░░░░░░░   50.0% 
+PHP                      3 repos             █████████░░░░░░░░░░░░░░░░   37.5% 
+HTML                     1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.5%
 
 ```
 
@@ -28,5 +72,5 @@ HTML                     2 repos             ███████████�
 ![Chart not found](https://raw.githubusercontent.com/nahcettolrahc/nahcettolrahc/main/charts/bar_graph.png) 
 
 
- Last Updated on 09/11/2022 18:45:39 UTC
+ Last Updated on 13/01/2023 18:38:33 UTC
 <!--END_SECTION:waka-->
