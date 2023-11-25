@@ -5,15 +5,13 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 101.3 kB Used in GitHub's Storage 
- > 
-> 🏆 0 Contributions in the Year 2023
+> 📦 78.3 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 8 Public Repositories 
+> 📜 6 Public Repositories 
  > 
-> 🔑 0 Private Repositories 
+> 🔑 2 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
@@ -57,8 +55,8 @@ No Activity Tracked This Week
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               4 repos             ████████████░░░░░░░░░░░░░   50.00 % 
-PHP                      3 repos             █████████░░░░░░░░░░░░░░░░   37.50 % 
+JavaScript               5 repos             ████████████████░░░░░░░░░   62.50 % 
+PHP                      2 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
 HTML                     1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
 ```
 
@@ -69,5 +67,5 @@ HTML                     1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/nahcettolrahc/nahcettolrahc/main/assets/bar_graph.png)
 
 
- Last Updated on 24/11/2023 18:34:39 UTC
+ Last Updated on 25/11/2023 18:33:59 UTC
 <!--END_SECTION:waka-->
