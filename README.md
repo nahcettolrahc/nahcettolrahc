@@ -1,4 +1,6 @@
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-13%20hrs%2025%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -11,6 +13,51 @@
  > 
 > 🔑 2 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                12 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.45 % 
+🌆 Daytime                42 commits          ████████░░░░░░░░░░░░░░░░░   33.07 % 
+🌃 Evening                68 commits          █████████████░░░░░░░░░░░░   53.54 % 
+🌙 Night                  5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   35 commits          ███████░░░░░░░░░░░░░░░░░░   27.56 % 
+Tuesday                  29 commits          ██████░░░░░░░░░░░░░░░░░░░   22.83 % 
+Wednesday                7 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
+Thursday                 43 commits          ████████░░░░░░░░░░░░░░░░░   33.86 % 
+Friday                   8 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
+Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sunday                   5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Bangkok
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -26,5 +73,5 @@ HTML                     1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/nahcettolrahc/nahcettolrahc/main/assets/bar_graph.png)
 
 
- Last Updated on 07/08/2026 00:21:51 UTC
+ Last Updated on 07/08/2026 19:26:36 UTC
 <!--END_SECTION:waka-->
